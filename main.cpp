@@ -113,7 +113,7 @@ void game()
     else
     cout<<pl2<<endl;
 
-    cout<<"Choose slot 0 to 9: "<<endl;
+    cout<<"Choose slot 1 to 9: "<<endl;
     int slot;
     cin>>slot;
 
